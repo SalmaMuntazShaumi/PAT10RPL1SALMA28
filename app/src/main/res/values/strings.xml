@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PAT_10RPL1_28_SALMA</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="age">Umur</string>
+    <string name="email">Email</string>
+    <string name="phone">No. Telp</string>
+    <string name="Gender">Gender</string>
+    <string name="about">About</string>
+    <string name="add">Submit Data</string>
+    <string name="activity">Phone Activity</string>
+    <string name="alert">You don\'t have any contacts</string>
+</resources>

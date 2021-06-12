@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611376419568",
+    "firebase_url": "https://patsalma-default-rtdb.firebaseio.com",
+    "project_id": "patsalma",
+    "storage_bucket": "patsalma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611376419568:android:bd7309532a1aa8fa992835",
+        "android_client_info": {
+          "package_name": "com.example.pat_10rpl1_28_salma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611376419568-i34h8urbtm4i8su5rc3v8fq4qjv7kmsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCo_WGU0ZXCCDwP3vryPoAmXz8CCgJoRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611376419568-i34h8urbtm4i8su5rc3v8fq4qjv7kmsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
